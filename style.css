@@ -71,3 +71,7 @@ body {
 .container-lists li:last-child {
     padding-bottom: 10px;
 }
+
+.container-lists li a {
+    text-decoration: none;
+}
