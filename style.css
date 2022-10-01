@@ -13,6 +13,9 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    font-family: 'Noto Sans Mono', monospace;
+    
+
 }
 
 .header {
@@ -49,6 +52,7 @@ body {
 .container__header-title {
     text-align: center;
     flex: 1;
+    font-weight: 900;
 }
 
 .container__header-logo {
@@ -66,6 +70,8 @@ body {
 .container-lists li {
     padding-left: 40px;
     padding-top: 10px;
+    font-weight: 400;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .container-lists li:last-child {
