@@ -81,3 +81,11 @@ body {
 .container-lists li a {
     text-decoration: none;
 }
+
+
+.form__title {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 10px 0;
+    text-align: center;
+}
